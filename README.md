@@ -1,6 +1,6 @@
-# Tick Tack Toe With Socket Project
+# Tic Tac Toe With Socket Project
 
-This is a Tick-tack-toe game written in python version 3.7.4 and powered by a python sockets. The application is separated into two different sections: client.py and server.py. 
+This is a Tic-tac-toe game written in python version 3.7.4 and powered by a python sockets. The application is separated into two different sections: client.py and server.py. 
 
 #### Main Files
 > client.py: This file manages everything that the client sees and interact with to communicate to the socket server.
